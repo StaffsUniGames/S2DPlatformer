@@ -125,15 +125,15 @@ You may notice your level doesn’t look quite right...can you work out what is 
 By right clicking S2DPlatformer in the Solution Explorer, we can Open Folder in File Explorer
 Try and solve the problem with the 4th level
 
-Alternatively, try changing the sprites loaded to cusotmise your game.
+Alternatively, try changing the sprites loaded to customise the look of your game.
 
 ## Summary
-Congratulations! You have completed an introduction to game programming using S2D, built on 
-OpenGL and OpenAL. Having completed the exercises, you will have experienced first-hand games 
-programming using C++. This tutorial has only begun to touch on the potential of this framework. 
-Feel free to experiment further with this Demo. 
+Congratulations!  
+You have completed an introduction to game programming using S2D, built on OpenGL and OpenAL.   
+Having completed the exercises, you will have experienced first-hand games programming using C++. 
+This tutorial has only begun to touch on the potential of Games Programming.
+A lot of work and expertise goes from starting with something like this, into the next GTA game!
 
-You will get the opportunity to build new games with this framework within the module. 
-To experience more of the programming aspect of games programming, you may wish to familiarise 
-yourself with C++ in general. 
+You will get the opportunity to build new games in a variety of frameworks on this course.  
+
 Have fun, happy coding
