@@ -2,8 +2,9 @@
 
 Loading the Project, click the Green Code button on the repository and then Open With Visual Studio 
 
-![image](https://user-images.githubusercontent.com/9059588/226904104-6db1b61d-2ca4-4c09-acdc-aa4fe73a48a3.png)
-
+<p align="center">
+<img width="453" height="475" src="https://user-images.githubusercontent.com/9059588/226904104-6db1b61d-2ca4-4c09-acdc-aa4fe73a48a3.png">
+</p>
 
 Today we will look at an example game built with the programming framework we use over the first 
 12 weeks of Fundamentals of Games and Graphical Systems Development module.
@@ -29,8 +30,9 @@ these throughout modules taught on the Games Technology degree programs.
 
 Try double clicking ‘PlatformerGame.cpp’!
 
-![image](https://user-images.githubusercontent.com/9059588/226861622-e29c3c6d-acc2-4ef6-97eb-3d1ec6f1ecab.png)![image](https://user-images.githubusercontent.com/9059588/226860947-98f6dfdc-53d0-4810-a7bc-a0b2c8eaa832.png)
-
+<p align="center">
+<img width="350" height="498" src="https://user-images.githubusercontent.com/9059588/226860947-98f6dfdc-53d0-4810-a7bc-a0b2c8eaa832.png">
+</p>
 The solution explorer contains all the files that comprise the project.
 
 All the files that have the .h extension are called header files. 
@@ -46,15 +48,18 @@ Choose ‘Local Windows Debugger' from the overlay. Play the game using the foll
 <b>WASD</b> : Movement  
 <b>Space</b> : Jump
 
-![image](https://user-images.githubusercontent.com/9059588/226863337-52aefeec-00cd-4729-aaa9-d14cfc6abb68.png)
-
+<p align="center">
+<img width="1058" height="90" src="https://user-images.githubusercontent.com/9059588/226863337-52aefeec-00cd-4729-aaa9-d14cfc6abb68.png">
+</p>
 
 ## Code Window
 This is the area you write your code. You’re currently looking at ‘PlatformerGame.cpp’ 
 An important 
 file of the Platformer Demo which controls the game logic.
-![image](https://user-images.githubusercontent.com/9059588/226863908-568b38f4-4cc9-40c9-bfd0-31002da9ce30.png)
 
+<p align="center">
+<img width="1166" height="448" src="https://user-images.githubusercontent.com/9059588/226863908-568b38f4-4cc9-40c9-bfd0-31002da9ce30.png">
+</p>
 
 ## Making Modifications
 There are many aspects of this game which can be modified, in fact everything can be modified since 
@@ -64,8 +69,9 @@ Open the ‘Enemy.cpp’ file. You should notice some Constant floating point va
 defined called ‘MaxWaitTime’ and ‘MoveSpeed’. 
 You can see they've been given the decimal values 0.5f, and 64.0f
 
-![image](https://user-images.githubusercontent.com/9059588/226906394-440f49f3-52b5-42a2-b4d5-ec339074026a.png)
-
+<p align="center">
+<img width="771" height="278" src="https://user-images.githubusercontent.com/9059588/226906394-440f49f3-52b5-42a2-b4d5-ec339074026a.png">
+</p>
 
 Change these values and see what effect this has on the enemies in level 2 and 3.
 
@@ -77,8 +83,10 @@ The text files are named in numerical sequential order starting from zero E.g., 
 Look at level 0 by double clicking the text file. Examine the contents of this file that comprise the 
 first level. It looks like the following:
 
-![image](https://user-images.githubusercontent.com/9059588/226885398-45d97c1d-26b6-4d90-aefc-54d12164c030.png)![image](https://user-images.githubusercontent.com/9059588/226885456-131e64ac-157d-42bb-8da2-b2fb793c7378.png)
-
+<p align="center">
+<img width="353" height="333" src="https://user-images.githubusercontent.com/9059588/226885456-131e64ac-157d-42bb-8da2-b2fb793c7378.png">
+<img width="353" height="333" src="https://user-images.githubusercontent.com/9059588/226885398-45d97c1d-26b6-4d90-aefc-54d12164c030.png">
+</p>
 
 Each level is a 20-character by 16-character grid.  
 Code is already in place to load each tile of the game world from the text file.  
