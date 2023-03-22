@@ -1,6 +1,7 @@
 # Example Game
 
-Loading the Project, click the Green Code button on the repository and then Open With Visual Studio 
+## Loading the Project
+Cick the Green Code button on the repository and then Open With Visual Studio 
 
 <p align="center">
 <img width="453" height="475" src="https://user-images.githubusercontent.com/9059588/226904104-6db1b61d-2ca4-4c09-acdc-aa4fe73a48a3.png">
