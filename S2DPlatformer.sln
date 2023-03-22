@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "S2DPlatformer", "S2DPlatformer\S2DPlatformer.vcxproj", "{49270F44-F155-427A-9A96-6999B066DF1A}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49270F44-F155-427A-9A96-6999B066DF1A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49270F44-F155-427A-9A96-6999B066DF1A}.Debug|Win32.Build.0 = Debug|Win32
+		{49270F44-F155-427A-9A96-6999B066DF1A}.Release|Win32.ActiveCfg = Release|Win32
+		{49270F44-F155-427A-9A96-6999B066DF1A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
