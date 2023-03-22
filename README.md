@@ -64,6 +64,9 @@ Open the ‘Enemy.cpp’ file. You should notice some Constant floating point va
 defined called ‘MaxWaitTime’ and ‘MoveSpeed’. 
 You can see they've been given the decimal values 0.5f, and 64.0f
 
+![image](https://user-images.githubusercontent.com/9059588/226906394-440f49f3-52b5-42a2-b4d5-ec339074026a.png)
+
+
 Change these values and see what effect this has on the enemies in level 2 and 3.
 
 ## Modify a Level
