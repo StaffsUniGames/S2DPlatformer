@@ -100,15 +100,15 @@ Try mdifying 0.txt level map with the above characters.
 
 ## Add a level
 
-Right Click <b>S2DPlatformer</b> in the <b>Solution Explorer</b> and <b>Add</b> a <b>New Item</b>
-Name this "3.txt" and it will create in the Solution Explorer.
-You can click and drag this into the LevelMaps filter.
+Right Click <b>S2DPlatformer</b> in the <b>Solution Explorer</b> and <b>Add</b> a <b>New Item</b>  
+Name this "3.txt" and it will create in the Solution Explorer.  
+You can click and drag this into the LevelMaps filter.  
 
-The text files are not compiled like code and are treated as external items.
+The text files are not compiled like code and are treated as external items.  
 
 Next open ‘PlatformerGame.cpp’ in Visual Studio from the Solution Explorer and locate the constant 
 variable called NumberOfLevels near the top of the file. 
-Change this value to 4 and you should now have a new 4th level. 
+Change this value to 4 and you should now have a new 4th level.  
 
 You may notice your level doesn’t look quite right...can you work out what is wrong? 
 
