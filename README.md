@@ -1,7 +1,6 @@
 # Example Game
 
-Loading the Project, click the Green Code button on the repository
-And then Open With Visual Studio 
+Loading the Project, click the Green Code button on the repository and then Open With Visual Studio 
 
 ![image](https://user-images.githubusercontent.com/9059588/226904104-6db1b61d-2ca4-4c09-acdc-aa4fe73a48a3.png)
 
@@ -43,8 +42,8 @@ You will learn a lot more about header and source files later within modules. Be
 files from the solution as they are all necessary to compile and run the game! 
 
 ## Building and Debugging the Game
-Choose ‘Local Windows Debugger' from the overlay. Play the game using the following controls:
-<b>WASD</b> : Movement
+Choose ‘Local Windows Debugger' from the overlay. Play the game using the following controls:  
+<b>WASD</b> : Movement  
 <b>Space</b> : Jump
 
 ![image](https://user-images.githubusercontent.com/9059588/226863337-52aefeec-00cd-4729-aaa9-d14cfc6abb68.png)
