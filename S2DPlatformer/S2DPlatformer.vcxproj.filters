@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Resource Files\LevelMaps">
+      <UniqueIdentifier>{5e124522-694c-48be-b51d-ee7b79580b18}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -80,5 +83,16 @@
     <ClInclude Include="Tile.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Content\Levels\0.txt">
+      <Filter>Resource Files\LevelMaps</Filter>
+    </Text>
+    <Text Include="Content\Levels\1.txt">
+      <Filter>Resource Files\LevelMaps</Filter>
+    </Text>
+    <Text Include="Content\Levels\2.txt">
+      <Filter>Resource Files\LevelMaps</Filter>
+    </Text>
   </ItemGroup>
 </Project>

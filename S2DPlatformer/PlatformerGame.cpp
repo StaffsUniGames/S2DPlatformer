@@ -4,7 +4,7 @@
 
 int PlatformerGame::TotalTime = 0;
 const int PlatformerGame::WarningTime = 30000;
-const int PlatformerGame::NumberOfLevels = 3;
+const int PlatformerGame::NumberOfLevels = 4;
 
 PlatformerGame::PlatformerGame(int argc, char* argv[]) : Game(argc, argv), _levelIndex(-1), _level(nullptr)
 {
