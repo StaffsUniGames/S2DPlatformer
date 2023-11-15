@@ -1,11 +1,11 @@
 # Example Game
 
 ## Loading the Project
-Cick the Green Code button on the repository and then Open With Visual Studio 
-
+Cick the Green Code button on the repository and then Download Zip 
 <p align="center">
-<img width="453" height="475" src="https://user-images.githubusercontent.com/9059588/226904104-6db1b61d-2ca4-4c09-acdc-aa4fe73a48a3.png">
+<img width="453" height="475" src="https://github.com/GamesB2/S2DPlatformer/assets/9059588/a32b9526-ff2c-4094-a271-412dcf3aeda1.png">
 </p>
+
 
 Today we will look at an example game built with the programming framework we use over the first 
 12 weeks of Fundamentals of Games and Graphical Systems Development module.
