@@ -6,6 +6,15 @@ Cick the Green Code button on the repository and then Download Zip
 <img width="453" height="475" src="https://github.com/GamesB2/S2DPlatformer/assets/9059588/a32b9526-ff2c-4094-a271-412dcf3aeda1.png">
 </p>
 
+Then find the folder in downloads, and using 7-Zip, Unzip Here
+<p align="center">
+<img width="453" height="475" src="https://github.com/GamesB2/S2DPlatformer/assets/9059588/0a2ddb56-8336-45bc-abf6-77afce3c8941.png">
+</p>
+
+Now, in the unzipped folder, open the S2DPlatformer.sln file
+<p align="center">
+<img width="453" height="475" src="https://github.com/GamesB2/S2DPlatformer/assets/9059588/0d4f8851-7336-4430-b473-14e5b34ed14c.png">
+</p>
 
 Today we will look at an example game built with the programming framework we use over the first 
 12 weeks of Fundamentals of Games and Graphical Systems Development module.
