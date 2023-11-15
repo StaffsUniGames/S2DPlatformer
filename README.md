@@ -13,7 +13,7 @@ Then find the folder in downloads, and using 7-Zip, Unzip Here
 
 Now, in the unzipped folder, open the S2DPlatformer.sln file
 <p align="center">
-<img width="453" height="475" src="https://github.com/GamesB2/S2DPlatformer/assets/9059588/0d4f8851-7336-4430-b473-14e5b34ed14c.png">
+<img width="700" height="475" src="https://github.com/GamesB2/S2DPlatformer/assets/9059588/0d4f8851-7336-4430-b473-14e5b34ed14c.png">
 </p>
 
 Today we will look at an example game built with the programming framework we use over the first 
